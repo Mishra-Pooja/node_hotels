@@ -1,0 +1,29 @@
+{
+  "name": "nodejs_tutorial",
+  "version": "1.0.0",
+  "description": "its a nodejs tutorial by pooja ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pooja mishra",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "body": "^5.1.0",
+    "config": "^3.3.12",
+    "configure-env": "^1.0.0",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.1",
+    "express-session": "^1.18.1",
+    "express-validator": "^7.2.0",
+    "jsonwebtoken": "^9.0.2",
+    "lodash": "^4.17.21",
+    "moment-timezone": "^0.5.46",
+    "mongoose": "^8.8.0",
+    "nodemon": "^3.1.7",
+    "parser": "^0.1.4",
+    "passport": "^0.7.0",
+    "passport-local": "^1.0.0"
+  }
+}
